@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Вадим Шамшин](https://up.htmlacademy.ru/htmlcss/30/user/1333231).
-* Наставник: [Кирьян Горяечев]] (https://htmlacademy.ru/profile/id578191).
+* Наставник: [Кирьян Горяечев](https://htmlacademy.ru/profile/id578191).
 
 ---
 
